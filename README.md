@@ -1,6 +1,6 @@
 # Build News Website With Node.js, Express & EJS - WP Rest API
 
-This was created as part of YouTube Video. Links below
+This was created as part of YouTube Video. Links below new line
 
 ![GitHub Logo](https://raddy.dev/wp-content/uploads/2020/09/nodejs-news-website-rest-api_compressed.jpg)
 
